@@ -1,4 +1,4 @@
-/*PROGRAM-10
+
 int main(){
 float dollar,rupees,pound;
 printf("Enter amount in dollars:");
