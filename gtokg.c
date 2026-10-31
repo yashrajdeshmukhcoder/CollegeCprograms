@@ -1,0 +1,7 @@
+int main(){
+    float gram,kilogram;
+printf("Enter weight in gram:");
+scanf("%f", gram);
+kilogram = gram/1000;
+printf("Weight in kilogram =", gram,kilogram);
+}*/
