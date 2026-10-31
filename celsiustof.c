@@ -1,4 +1,4 @@
-/*PROGRAM-14
+
 int main(){
 float Celsius,Fahrenheit;
 printf("Enter temperature in Celsius:");
