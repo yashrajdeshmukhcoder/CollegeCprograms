@@ -5,4 +5,4 @@ int main()
     scanf("%d%d", &x,&y);
     sum = x+y;
     printf("Addition of two numbers = %d", sum);
-}*/
+}
